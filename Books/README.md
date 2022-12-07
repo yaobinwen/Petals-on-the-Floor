@@ -4,7 +4,7 @@
 
 ## 1. Those I am reading
 
-- 🌟 苏丹：[《闹成》](http://book.sina.com.cn/news/xsxx/2020-06-19/doc-iirczymk7835952.shtml)
+- 🌟 苏丹：[《闹城》](http://book.sina.com.cn/news/xsxx/2020-06-19/doc-iirczymk7835952.shtml)
 - 🌟 沈颢：[《万水千山》](https://book.douban.com/subject/35343628/)
 
 ## 2. Those I have read
