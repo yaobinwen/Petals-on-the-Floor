@@ -6,7 +6,6 @@
 
 - 《我不是药神》
 
-
 ## Those I have watched
 
 - 🌟 陈丹青：[《局部》](https://www.youtube.com/playlist?list=PLvWfRmQ8sEi4eM9awXWHx8dodWdQRvDDY)
@@ -20,6 +19,7 @@
 - 🌟 《牯岭街少年杀人事件》：这部电影就像一棵大树，主干给我们讲述了一个完整的故事，枝叶让我们得以一窥那个时代的台湾。
 - 🌟 日剧：《坂上之云》
 - 🌟 HBO: [_Band of Brothers_](https://www.hbo.com/band-of-brothers)
+- 🌟 《北京人在纽约》：作为九十年代初的电视剧，帮助那个年代的中国人更好地了解到中国人在美国生存的酸甜苦辣。是比较全面地介绍美国的好与不好，而不是一味地只是夸美国的好。(2022年感恩节开始重看；2023年1月2日看完最后一集。)
 
 ## Those I want to watch
 

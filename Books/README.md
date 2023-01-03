@@ -5,7 +5,6 @@
 ## 1. Those I am reading
 
 - 🌟 沈颢：[《万水千山》](https://book.douban.com/subject/35343628/)
-- [意大利🇮🇹] 迪诺.布扎蒂([Dino Buzzati](https://en.wikipedia.org/wiki/Dino_Buzzati))：[《六十个故事》](https://book.douban.com/subject/35094296/)
 - [美国🇺🇸] 马丁.道尔：《大河与大国》
   - Martin Doyle: _The Source: How Rivers Made America and America Remade Its Rivers_
 
@@ -52,18 +51,18 @@
 - 🌟 Andrew Kneier: [Finding Your Way through Cancer: An Expert Cancer Psychologist Helps Patients and Survivors Face the Challenges of Illness](https://www.goodreads.com/book/show/7491915-finding-your-way-through-cancer)
 - 乔治•古斯里奇：《翻转人生的教育 : 来自阿拉斯加的奇迹》：比较吸引我的是故事中涉及到的爱斯基摩人的生活，让我了解到远在天边的那群人的一些生活状态。
   - [_The Kids from Nowhere: The Story Behind the Arctic Educational Miracle_ by George Guthridge](https://www.goodreads.com/en/book/show/987027)
-- 🌟 [美国🇺🇸] Jon Krakauer: _Into the Wild_
+- 🌟 Jon Krakauer: _Into the Wild_
   - 也推荐电影。
-- 🌟 [美国🇺🇸] Liz Climo: _Lobster Is the Best Medicine : A Collection of Comics About Friendship_：很喜欢这种画风简洁明快而且色调温和的漫画。简短的对白，但是抓住了友情之间最精髓的一些闪光点。非常喜欢！
+- 🌟 Liz Climo: _Lobster Is the Best Medicine : A Collection of Comics About Friendship_：很喜欢这种画风简洁明快而且色调温和的漫画。简短的对白，但是抓住了友情之间最精髓的一些闪光点。非常喜欢！
 - 🌟 William Strunk Jr.、E. B. White: _The Elements of Style, Fourth Edition_
 - 🌟 杨谨伦：[《美生中国人》](https://www.amazon.com/American-Born-Chinese-Gene-Luen/dp/1250811899)：把中国传统美猴王的故事在一个新的上下文环境中讲述出来却依然显得合情合理。孙悟空让花果山上的猴子们穿上鞋的那个部分太精妙了。
 - 🌟 曼昆(N.Gregory Mankiw)：《经济学基础（第5版）》
-- 🌟 [美国🇺🇸] 理查德·普雷斯顿：《血疫 : 埃博拉的故事》
-- [美国🇺🇸] 丹尼尔·凯斯：《献给阿尔吉侬的花束》
+- 🌟 理查德·普雷斯顿：《血疫 : 埃博拉的故事》
+- 丹尼尔·凯斯：《献给阿尔吉侬的花束》
 - 🌟 Marshall B. Rosenberg：_Nonviolent Communication : A Language of Life, 3rd Edition: Life-Changing Tools for Healthy Relationships_
-- 🌟 [美国🇺🇸] 梭罗：《瓦尔登湖》
-- 🌟 [美国🇺🇸] Jack Kerouac: _On the Road_
-- [美国🇺🇸] Allen Ginsberg: _Howl and Other Poems_
+- 🌟 梭罗：《瓦尔登湖》
+- 🌟 Jack Kerouac: _On the Road_
+- Allen Ginsberg: _Howl and Other Poems_
 - 🌟 安德鲁·卡内基：《卡内基自传》
 - Gabrielle Zevin: _The Storied Life of A. J. Fikry_
 
@@ -111,6 +110,18 @@
 ### 越南 🇻🇳
 
 - 🌟 Thich Nhat Hanh: _Old Path White Clouds : Walking in the Footsteps of the Buddha_：可以了解到佛祖一生中的主要经历，也可以了解到佛教中最核心的教义。当然仅凭一本书，读者很难真正领悟佛教。这本书只是一个介绍性的文本。如果想参悟佛教，还需要努力修行。
+
+### 意大利🇮🇹
+
+- 迪诺.布扎蒂([Dino Buzzati](https://en.wikipedia.org/wiki/Dino_Buzzati))：[《六十个故事》](https://book.douban.com/subject/35094296/)。有几篇故事还是挺印象深刻的：
+  - 《斗篷》：一个在战场上已经死去的孩子，乞求死神给他一些时间，只为了和母亲和弟弟说一声永别。
+  - 《斯卡拉大剧院的惊恐之夜》：人们总是在害怕着什么，但是却又说不清道不明。
+  - 《水滴》：人们过分敏感，连一滴水都害怕。（不过一滴可以爬楼梯的水滴的确挺可怕。）
+  - 《见过上帝的狗》：很有趣的故事，甚至结尾有一丝惊悚。
+  - 《特快专列》：人的生命就像这列火车，每一次晚点就像一次错过，而我们总是匆匆要向前赶路，而不得不抛下心爱的人。
+  - 《追风的人》：故事编写的方式很有点独特。
+  - 《一封情书》：一种突发的疯狂，并执着地想要做完，但做完之后却立刻抛之脑后，完全想不起来当初做这件事的意义。
+  - 《托德战舰》：人们怀着一种情怀而坚持着，却不知道这种情怀可能已经毫无意义。
 
 ## 3. Those I want to read
 
