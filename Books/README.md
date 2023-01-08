@@ -5,12 +5,16 @@
 ## 1. Those I am reading
 
 - 🌟 沈颢：[《万水千山》](https://book.douban.com/subject/35343628/)
-- [美国🇺🇸] 马丁.道尔：《大河与大国》
-  - Martin Doyle: _The Source: How Rivers Made America and America Remade Its Rivers_
+- 杨早：[《早生贵子》](https://book.douban.com/subject/35294281/)
+- 🇺🇸 卡尔·克劳：[《四万万顾客》](https://book.douban.com/subject/35778341/)
+  - Carl Crow: _400 Million Customers_
+- 唐四方：[《相声大师》](https://book.douban.com/subject/27015377/)
+- 埃德蒙.福赛特：[《自由主义传》](https://book.douban.com/subject/27090936/)
+  - Edmund Fawcett: _Liberalism：The Life of an Idea_
 
 ## 2. Those I have read
 
-### 中国(大陆 + 台湾)
+### 大陆 + 台湾
 
 - 🌟 苏丹：[《闹城》](http://book.sina.com.cn/news/xsxx/2020-06-19/doc-iirczymk7835952.shtml)(2022-11-21开始；2022-12-06读毕)
 - 李娟：
@@ -126,3 +130,6 @@
 ## 3. Those I want to read
 
 - 《克雷洛夫寓言》
+- 黄全愈：《素质教育在美国》系列；_The Hybrid Tiger_
+- [美国🇺🇸] 马丁.道尔：《大河与大国》
+  - Martin Doyle: _The Source: How Rivers Made America and America Remade Its Rivers_
